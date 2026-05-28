@@ -15,7 +15,8 @@ public class Github_Project {
      */
     public static void main(String[] args) {
         
-        System.out.println("Leck aya");
+        System.out.println("Lukas leckt Füße");
+        System.out.println("Lukas leckt Puhhh");
         // TODO code application logic here
     }
     

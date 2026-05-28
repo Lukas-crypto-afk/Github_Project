@@ -17,6 +17,7 @@ public class Github_Project {
         
         System.out.println("Lukas leckt Füße");
         System.out.println("Lukas leckt Puhhh");
+        System.out.println("Lukas leckt Dihhh");
         // TODO code application logic here
     }
     
